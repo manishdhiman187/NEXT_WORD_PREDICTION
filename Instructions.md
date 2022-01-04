@@ -1,8 +1,4 @@
-# Coursera Data Science Capstone Final Project Submission
-
-<a href="https://rpubs.com/AnishRaj/DataScience" target="_blank">Presentation</a>
-
-<a href="https://anishraj.shinyapps.io/WordPredictor/" target="_blank">Next Word Predictor App</a>
+# Coursera's Data Science Capstone Final Project Submission
 
 ## Instructions
 
